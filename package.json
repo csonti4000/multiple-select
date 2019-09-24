@@ -1,0 +1,19 @@
+{
+  "name": "multiple-select",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/csonti4000/multiple-select.git"
+  },
+  "author": "Bakos Bálint",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/csonti4000/multiple-select/issues"
+  },
+  "homepage": "https://github.com/csonti4000/multiple-select#readme"
+}
